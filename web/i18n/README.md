@@ -80,7 +80,7 @@ export const languages = [
   {
     value: 'en-US',
     name: 'English(United States)',
-    example: 'Hello, Dify!',
+    example: 'Hello, FrontendAI!',
     supported: true,
   },
   {
@@ -92,25 +92,25 @@ export const languages = [
   {
     value: 'pt-BR',
     name: 'Português(Brasil)',
-    example: 'Olá, Dify!',
+    example: 'Olá, FrontendAI!',
     supported: true,
   },
   {
     value: 'es-ES',
     name: 'Español(España)',
-    example: 'Saluton, Dify!',
+    example: 'Saluton, FrontendAI!',
     supported: false,
   },
   {
     value: 'fr-FR',
     name: 'Français(France)',
-    example: 'Bonjour, Dify!',
+    example: 'Bonjour, FrontendAI!',
     supported: false,
   },
   {
     value: 'de-DE',
     name: 'Deutsch(Deutschland)',
-    example: 'Hallo, Dify!',
+    example: 'Hallo, FrontendAI!',
     supported: false,
   },
   {
@@ -122,37 +122,37 @@ export const languages = [
   {
     value: 'ko-KR',
     name: '한국어(대한민국)',
-    example: '안녕, Dify!',
+    example: '안녕, FrontendAI!',
     supported: true,
   },
   {
     value: 'ru-RU',
     name: 'Русский(Россия)',
-    example: ' Привет, Dify!',
+    example: ' Привет, FrontendAI!',
     supported: false,
   },
   {
     value: 'it-IT',
     name: 'Italiano(Italia)',
-    example: 'Ciao, Dify!',
+    example: 'Ciao, FrontendAI!',
     supported: false,
   },
   {
     value: 'th-TH',
     name: 'ไทย(ประเทศไทย)',
-    example: 'สวัสดี Dify!',
+    example: 'สวัสดี FrontendAI!',
     supported: false,
   },
   {
     value: 'id-ID',
     name: 'Bahasa Indonesia',
-    example: 'Saluto, Dify!',
+    example: 'Saluto, FrontendAI!',
     supported: false,
   },
   {
     value: 'uk-UA',
     name: 'Українська(Україна)',
-    example: 'Привет, Dify!',
+    example: 'Привет, FrontendAI!',
     supported: true,
   },
   // Add your language here 👇
